@@ -105,7 +105,7 @@
     "sinon": "11.1.2",
     "sync-monorepo-packages": "0.3.4",
     "validate.js": "0.13.1",
-    "webdriverio": "6.12.1",
+    "webdriverio": "7.13.2",
     "yaml-js": "0.3.1"
   },
   "engines": {

@@ -60,7 +60,7 @@
     "serve-favicon": "2.5.0",
     "source-map-support": "0.5.20",
     "validate.js": "0.13.1",
-    "webdriverio": "6.12.1",
+    "webdriverio": "7.13.2",
     "ws": "7.5.5"
   },
   "devDependencies": {
